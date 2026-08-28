@@ -1,0 +1,23 @@
+6 6
+######
+#S...#
+#.#..#
+#....#
+#..G.#
+######
+15
+unblock 2 2
+path
+block 1 2
+block 2 1 
+portal 1 3 4 2
+print
+path
+unblock 1 2
+unblock 2 1
+path
+print
+block 1 1
+block 4 3
+block 1 3
+portal 4 2 3 3
